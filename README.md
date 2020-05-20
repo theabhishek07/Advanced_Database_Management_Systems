@@ -1,5 +1,5 @@
 # Advanced_Database_Management_Systems
-Welcome to Advanced_Database_Management_Systems 📋 This Repository was made to maintain various [LAB CONTENT](https://github.com/theabhishek07/Advanced_Database_Management_Systems/tree/master/LAB_WORK) ,[ASSIGNMENTS](https://github.com/theabhishek07/Advanced_Database_Management_Systems/tree/master/Assignments), [STUDY MATERIAL](https://github.com/theabhishek07/Advanced_Database_Management_Systems/tree/master/STUDY_MATERIAL) and all the Advanced_Database_Management_Systems related stuff so that they all can be compiled in a single space. This Repository is maintained by [theabhishek07](https://github.com/theabhishek07) .This is a public Repository and all sorts of contributions to the code are welcomed.
+Welcome to Advanced_Database_Management_Systems 📋 This Repository was made to maintain various [ASSIGNMENTS](Assignments), [STUDY MATERIAL](Study_Content), [Ebooks](Ebooks) , [NOTES](Notes) and all the Advanced_Database_Management_Systems related stuff so that they all can be compiled in a single space. This Repository is maintained by [theabhishek07](https://github.com/theabhishek07) .This is a public Repository and all sorts of contributions to the code are welcomed.
 
 **_You are always welcome to add more or improve any resource in this repository._**
 # Rules for collaboration
